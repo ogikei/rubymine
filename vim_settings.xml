@@ -2,26 +2,23 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/MyOffice/git/datainfra_infra/mf_datainfra_decrypter/spec/decrypted_data_writer_spec.rb" timestamp="1539166866161" />
-      <file name="$USER_HOME$/MyOffice/git/datainfra_infra/mf_datainfra_decrypter/Gemfile" timestamp="1539235090913" />
-    </filemarks>
+    <filemarks />
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">Z2VtICdtZl9wbGF0Zm9ybS1jaXBoZXInLCBnaXQ6ICdnaXRAZ2l0aHViLmNvbTptb25leWZvcndhcmQvbWZfcGxhdGZvcm0tY2lwaGVyLmdpdCcK</text>
+        <text encoding="base64">IyBnZW0gJ21mX3BsYXRmb3JtLWNpcGhlcicsIGdpdDogJ2dpdEBnaXRodWIuY29tOm1vbmV5Zm9yd2FyZC9tZl9wbGF0Zm9ybS1jaXBoZXIuZ2l0Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21vbmV5Zm9yd2FyZC9tZl9wbGF0Zm9ybS1jaXBoZXIuZ2l0Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://github.com:moneyforward/mf_platform-cipher.git'</text>
+        <text>git@github.com:moneyforward/mf_platform-cipher.git</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Z2VtICdzZXF1ZWwnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com:moneyforward/mf_platform-cipher.git'</text>
+        <text>git@github.com:moneyforward/mf_platform-cipher.git</text>
       </register>
     </registers>
     <search>
